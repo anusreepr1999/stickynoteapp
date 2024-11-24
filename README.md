@@ -1,7 +1,7 @@
 # stickynoteapp
 
 
-StickyNotesApp is a React-based web application that lets you create, edit, and manage sticky notes. Each note can be customized, downloaded, and locked for security, offering a simple and interactive user experience.
+sticky note app is a React-based web application that lets you create, edit, and manage sticky notes. Each note can be customized, downloaded, and locked for security, offering a simple and interactive user experience.
 
 ## Features
 - Add new sticky notes.
